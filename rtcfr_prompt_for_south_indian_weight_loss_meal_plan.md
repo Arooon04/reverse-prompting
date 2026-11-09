@@ -1,0 +1,21 @@
+# RTCFR Prompt: 7-Day Vegetarian South Indian Weight-Loss Meal Plan
+
+```text
+Role: Act as an expert clinical nutritionist and South Indian meal-planning specialist with extensive experience designing calorie-deficit, nutrient-dense traditional diets for sustainable weight loss.
+
+Task: Create a structured, healthy 7-day vegetarian South Indian meal plan tailored for weight loss. The plan must emphasize high protein, high fiber, complex carbohydrates, and healthy fats while incorporating authentic Tamil Nadu and regional South Indian culinary traditions (e.g., millets, pulses, traditional poriyals, kootus, and sambars with controlled oil usage).
+
+Context: The target individual is an active adult working in a professional desk environment who engages in regular weight training and physical conditioning routines. The meal plan must support steady muscle recovery, provide sustained energy throughout the workday, maintain steady blood sugar levels, and achieve a healthy daily caloric deficit without sacrificing traditional flavors.
+
+Format: Present the output clearly using the following structured layout:
+1. Daily caloric and macronutrient distribution targets (approximate protein, fiber, and calorie ranges).
+2. A comprehensive 7-day table (Monday through Sunday) covering Breakfast, Mid-Morning Snack, Lunch, Evening Snack, and Dinner.
+3. Specific portion guidelines (e.g., cup measurements, number of idlis, serving sizes of rice/millets/kootus).
+4. A concise list of 5 key preparation guidelines (e.g., oil-limiting techniques, use of unpolished rice/millets, inclusion of buttermilk or sprouts).
+
+Restrictions: 
+- Strictly vegetarian (no eggs, meat, fish, or gelatin-based ingredients).
+- Avoid excessive use of refined white rice; prioritize unpolished ponni rice, millets (samai, varagu, kuthiraivali), broken wheat, or brown rice.
+- Limit heavy coconut usage, deep-fried snacks, and high-glycemic sweets.
+- Ensure all meal suggestions utilize readily available South Indian ingredients.
+```
