@@ -1,0 +1,37 @@
+{
+  "scale_framework": {
+    "subject": "An elderly Tamil patriot in a crisp, hand-spun off-white Khadi veshti and angavastram, conversing with a young lawyer wearing a traditional Madras cotton pattu border mundu and spectacles, reviewing handwritten freedom pamphlets on a wooden desk.",
+    "camera": {
+      "shot": "Medium-wide shot",
+      "lens": "35mm documentary lens",
+      "angle": "Eye-level perspective"
+    },
+    "art_style": {
+      "genre": "Historical realism cinematic photography",
+      "palette": [
+        "sepia-toned indigo",
+        "warm brass",
+        "aged parchment cream",
+        "faded madras check"
+      ]
+    },
+    "lighting": {
+      "type": "Natural morning light",
+      "quality": "Soft directional golden rays streaming through wooden window louvers"
+    },
+    "environment": {
+      "place": "A traditional Mylapore 1940s Madras house with pillared thinnai (veranda), Athangudi terracotta floor tiles, and exposed teak wood rafters",
+      "era": "Pre-independence British India (circa 1945)",
+      "time_of_day": "Early morning (7:30 AM)"
+    }
+  },
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "modern skyscrapers",
+    "western suits",
+    "plastic items",
+    "neon lighting",
+    "generic stock-image aesthetics",
+    "oversaturated colors"
+  ]
+}
